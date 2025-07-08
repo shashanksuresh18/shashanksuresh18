@@ -42,7 +42,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashanksuresh18&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksuresh18&layout=compact&theme=tokyonight" />
+ 
 </div>
 
 ---
