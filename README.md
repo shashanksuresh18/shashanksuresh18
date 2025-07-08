@@ -1,4 +1,4 @@
-# 👋 Hello , I am Shashank Suresh
+# Welcome to my space! I am Shashank Suresh – building systems that help people make better decisions with data.
 
 🎯 Data Scientist | ML Engineer | Cloud & Data Analytics Enthusiast  
 📍 London, UK | 💼 Open to exciting ML, Data, or Engineering roles  
