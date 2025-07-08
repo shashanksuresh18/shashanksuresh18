@@ -1,57 +1,49 @@
-<h2 align="center">Hey 👋, I'm Shashank</h2>
+# 👋 Hi, I'm Shashank Suresh
 
-<p align="center">
-Aspiring Data Scientist | ML Enthusiast | Backend Explorer
-</p>
-
----
-
-### 🧠 About Me
-
-✨ Passionate about applying AI to solve real-world problems  
-📚 Currently learning Data Science, MLOps, and Product Thinking  
-🏆 **Best Paper Award** for CNN-based Paddy Crop Disease Detection (NCCDS 2020)  
-🌱 Dreaming to work in a startup with a vision — *and learn fast!*  
-🚀 I love exploring tools like **LangChain**, **GPT APIs**, and **FastAPI**
+🚀 Data Analyst | Machine Learning Enthusiast | Cloud Engineer  
+📍 London, UK | 💬 Open to Collaboration & Learning Opportunities  
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</p>
+🎓 MSc in Data Science at University of Surrey  
+💼 3+ years in Data Analytics, Cloud, and Machine Learning  
+🌾 Best Paper Award: Paddy Crop Disease Detection using CNN  
+🔍 Passionate about solving real-world problems using Data Science, ML, and AI  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashanksuresh18&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksuresh18&layout=compact&theme=radical"/>
-</p>
-
----
-
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashanksuresh18)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shashanksuresh018@gmail.com)
+## 🛠️ I Code With
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat&logo=powerbi)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat&logo=microsoftazure)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat&logo=tableau)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
 ---
 
-### 👀 Profile Views
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksuresh18&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashanksuresh18&show_icons=true&theme=dracula)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shashanksuresh18&label=Profile%20Views&color=blue)
+---
 
+## 🔗 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shashanksuresh18)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:shashanksuresh018@gmail.com)
+
+---
+
+## 🏆 Certifications
+- Microsoft Certified: Azure Data Engineer Associate  
+- Azure Fundamentals | Power Platform Fundamentals
+
+---
+
+## 🌟 Fun Fact
+> I once trained a model to detect paddy crop diseases... and it won me **Best Paper Award!**
