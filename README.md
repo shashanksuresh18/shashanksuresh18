@@ -1,45 +1,57 @@
-# 👋 Hi, I'm Shashank Suresh
+<h2 align="center">Hey 👋, I'm Shashank</h2>
 
-**Aspiring Data Scientist | Machine Learning Enthusiast | Builder of Real Things**
-
-![Profile Views](https://komarev.com/ghpvc/?username=shashanksuresh18&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 🚀 About Me
-
-- 🎓 CS Graduate passionate about data and AI-driven problem solving.
-- 🏆 Best Paper Award – NCCDS 2020 for CNN-based **Paddy Crop Disease Detection**.
-- ⚙️ Building with **LangChain**, **FastAPI**, **OCR**, **RAG pipelines**, and **GPT APIs**.
-- 💭 Dreaming of building in a **vision-led startup** — Shram is exactly that kind of place!
+<p align="center">
+Aspiring Data Scientist | ML Enthusiast | Backend Explorer
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🧠 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=OpenAI)
+✨ Passionate about applying AI to solve real-world problems  
+📚 Currently learning Data Science, MLOps, and Product Thinking  
+🏆 **Best Paper Award** for CNN-based Paddy Crop Disease Detection (NCCDS 2020)  
+🌱 Dreaming to work in a startup with a vision — *and learn fast!*  
+🚀 I love exploring tools like **LangChain**, **GPT APIs**, and **FastAPI**
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Tech Stack
 
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashanksuresh18&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksuresh18&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
 
 ---
 
-## 📬 Connect with Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashanksuresh)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashanksuresh18&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksuresh18&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashanksuresh18)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shashanksuresh018@gmail.com)
 
 ---
 
-_Thanks for visiting! Feel free to explore my projects — I'm always building something new! 🚀_
+### 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shashanksuresh18&label=Profile%20Views&color=blue)
+
