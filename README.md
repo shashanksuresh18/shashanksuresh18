@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shashank Suresh
+# 👋 Hello , I am Shashank Suresh
 
 🎯 Data Scientist | ML Engineer | Cloud & Data Analytics Enthusiast  
 📍 London, UK | 💼 Open to exciting ML, Data, or Engineering roles  
@@ -66,7 +66,8 @@
 
 ## 📜 Certifications
 
-- ✅ Azure Data Engineer Associate  
+- ✅ Azure Data Engineer Associate
+- ✅ Azure Data Fundamentals 
 - ✅ Azure Fundamentals & Power Platform  
 - ✅ Best Paper Award – NCCDS 2020 (ML in Agriculture)
 
