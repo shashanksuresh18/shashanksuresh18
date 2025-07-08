@@ -1,11 +1,5 @@
 # 👋 Welcome to my space! I am Shashank Suresh – building systems that help people make better decisions with data.
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shashanksuresh18&label=Profile%20views&color=0e75b6&style=flat" alt="shashanksuresh18" />
-</p>
-
 
 🎯 Data Scientist | ML Engineer | Cloud & Data Analytics Enthusiast  
 📍 London, UK | 💼 Open to exciting ML, Data, or Engineering roles  
@@ -82,3 +76,9 @@
 
 > I make my ML models work... eventually 🤖🔥  
 > But I also dream of building beautiful, usable AI products 🚀
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shashanksuresh18&label=Profile%20views&color=0e75b6&style=flat" alt="shashanksuresh18" />
+</p>
