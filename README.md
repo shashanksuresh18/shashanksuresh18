@@ -1,34 +1,43 @@
-# 👋 Hey, I'm Shashank
+# 👋 Hi, I'm Shashank Suresh
 
-I'm a Data Science graduate and ML enthusiast who loves building, learning, and exploring the space where AI meets real-world impact.
-
-🚀 Currently building projects using Python, FastAPI, RAG pipelines, and LLMs  
-📊 Love working with data, from cleaning to storytelling  
-🎯 Dreaming of working in mission-driven startups and making a real contribution
+**Aspiring Data Scientist | Machine Learning Enthusiast | Builder of Real Things**
 
 ---
 
-## 🧠 About Me
-- 🔍 I enjoy exploring new tech and staying up-to-date on AI
-- 🤝 I love collaborating on small, fast-moving teams
-- 🛠️ Fun fact: I built a CNN-based paddy disease detection system that won **Best Paper @ NCCDS 2020**
+## 🚀 About Me
+
+- 🎓 Recent Computer Science graduate passionate about data-driven solutions.
+- 🏆 Won Best Paper Award at NCCDS 2020 for a CNN-based **Paddy Crop Disease Detection** system.
+- 🌱 Currently exploring embeddings, RAG pipelines, OCR, LangChain, FastAPI, and more.
+- 💡 I enjoy building usable projects that combine **ML, backend logic, and analytics** — not just theoretical code.
+- 🌍 My dream is to work at a **vision-led startup** solving meaningful challenges with AI.
 
 ---
 
-## 🔧 I Code With
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=data:image/svg+xml;base64,...) <!-- add others like Git, VS Code, etc -->
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, R, SQL, Java
+- **Data**: Pandas, NumPy, Seaborn, Plotly, Chart.js
+- **ML/AI**: Scikit-learn, CNNs, LangChain, OpenAI APIs
+- **Databases**: MySQL, MongoDB
+- **Cloud & DevOps**: Docker, Azure, AWS
+- **Frameworks**: FastAPI, Flask
+- **Tools**: Git, VS Code
 
 ---
 
-## 📈 GitHub Stats
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashanksuresh018&show_icons=true&theme=dark)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksuresh018&layout=compact&theme=dark)
+You can view my contributions, active projects, and pinned repositories to get a sense of what I'm building and learning!
 
 ---
 
-## 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shashanksuresh018@gmail.com)
+## 📫 Let's Connect
+
+- **Email**: shashanksuresh018@gmail.com  
+- **LinkedIn**: [linkedin.com/in/shashanksuresh](https://linkedin.com/in/shashanksuresh)  
+- **GitHub**: [shashanksuresh18](https://github.com/shashanksuresh18)
+
+---
+
+Thanks for stopping by! 🚀
